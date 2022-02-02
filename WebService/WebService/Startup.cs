@@ -17,6 +17,7 @@ namespace Service1
 {
     public class Startup
     {
+//added Feature1
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
