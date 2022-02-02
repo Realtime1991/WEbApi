@@ -24,6 +24,7 @@ namespace WebService2
     {
 	//test HotFix
 	//HotFix for version 1.0
+	//HotFix2 for version 1.0
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
