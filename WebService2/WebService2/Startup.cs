@@ -22,6 +22,7 @@ namespace WebService2
 {
     public class Startup
     {
+	//test HotFix
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
